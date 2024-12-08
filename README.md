@@ -10,4 +10,6 @@ Features
 🔄 Restartable: A "New Game" button resets the game.
 🎨 Dynamic UI: Reveals correct guesses and shows the remaining attempts visually.
 🕒 Timer: A countdown timer adds urgency to gameplay.
+
+---
  Visit the page here: https://assembly-endgame.vercel.app/
